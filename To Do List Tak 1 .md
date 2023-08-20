@@ -21,7 +21,7 @@ This project is a simple To Do List application built using Python's tkinter lib
 
 3.Install the required dependencies (if any):  pip install tkinter
 
-4.Run the application python password_generator.py
+4.Run the application python To Do List Tak 1.py
 
 # Requirements
    Create a textfile named "tasklist" in the same folder.
