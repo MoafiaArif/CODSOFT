@@ -23,7 +23,7 @@ This is a simple calculator GUI application built using Python and the Tkinter l
 
 # Usage
 1.Clone the repository to your local machine:
-git clone: https://github.com/PEGASUS2026/python_calculator_codsoft.git  
+git clone: https://github.com/MoafiaArif/CodSoft/blob/main/Task%202%20Calculator.py  
 
 2.Navigate to the project directory:
 cd calculator-gui
